@@ -1,7 +1,7 @@
 import cv2
 import sys
 
-image = cv2.imread(sys.argv[1])
+image = Elf 2.png(sys.argv[1])
 mask = None
 
 ambient_intensity = 0.45
